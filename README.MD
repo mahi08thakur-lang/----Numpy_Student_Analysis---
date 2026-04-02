@@ -1,6 +1,6 @@
-Project: Student Data Analysis using Numpy
+# Project: Student Data Analysis using Numpy
 
-Features🚀:
+## Features🚀:
 - Average calculations
 - Topper detection 
 - Subject-wise analysis
